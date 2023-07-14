@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calcular Raio do circulo", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conver de celsius para fahrenheit", "Conver de celsius para fahrenheit\Conver de celsius para fahrenheit.csproj", "{942212E8-4F30-4F53-90C5-4AC88AF987C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificador de idade", "Verificador de idade\Verificador de idade.csproj", "{1E23CCC5-28B2-434F-B06B-BE69B9C0C285}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verificador de idade", "Verificador de idade\Verificador de idade.csproj", "{1E23CCC5-28B2-434F-B06B-BE69B9C0C285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media Salarial", "Media Salarial\Media Salarial.csproj", "{F9856690-0303-4FBC-97EA-B7C87C899A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media Salarial", "Media Salarial\Media Salarial.csproj", "{F9856690-0303-4FBC-97EA-B7C87C899A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area-Retangulo", "Area-Retangulo\Area-Retangulo.csproj", "{B48E9CAD-5DBA-4B07-A678-D1DC288DB5B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F9856690-0303-4FBC-97EA-B7C87C899A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9856690-0303-4FBC-97EA-B7C87C899A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9856690-0303-4FBC-97EA-B7C87C899A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48E9CAD-5DBA-4B07-A678-D1DC288DB5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48E9CAD-5DBA-4B07-A678-D1DC288DB5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48E9CAD-5DBA-4B07-A678-D1DC288DB5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48E9CAD-5DBA-4B07-A678-D1DC288DB5B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
